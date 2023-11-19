@@ -3,7 +3,7 @@ An AI trained model that detects face mask on the person's face.
 
 ![image](https://github.com/gambre09/Face-Mask-Detection/assets/115577142/7ed3a22c-4411-4c57-a23d-f727fb442893)
 
-# Discrption
+# Description
 The Face Mask Detection project includes Python programming, OpenCV (Open Source Computer Vision Library), MobileNetV2, and advanced image processing technique to create a robust and efficient detecting of presence of face masks in real-time.
 
 # Features
